@@ -1,6 +1,8 @@
 # 🌟 Shubham Sonawane
 
-### 👋 Hi there! I'm Shubham Sonawane
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=249DF7&center=true&vCenter=true&width=430&lines=👋+Hi+there!+I'm+Shubham+Sonawane;🚀+Full+Stack+Developer;💻+Web+Application+Architect" alt="Typing SVG" />
+</div>
 
 🚀 **Full Stack Developer** specializing in building scalable web applications and exploring modern cloud architectures.
 
@@ -24,15 +26,25 @@
 
 ---
 
-###⚒️ Tech Stack 
+## 🛠️ Skills & Tools
 
-- ![My Skills](https://skillicons.dev/icons?i=js,python,react,html,expressjs,tailwind,bootstrap,nodejs,docker,kubernetes,mongodb)
-  
-### 📈 My GitHub Stats
+> Click the icons to see documentation!
+
+<p align="center">
+    <a href="https://skillicons.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js,python,react,html,css,express,tailwind,bootstrap,nodejs,docker,kubernetes,mongodb,figma,vscode&perline=14" alt="My Skills" />
+    </a>
+</p>
 
 ---
 
-![Shubham Sonawane's GitHub Stats](https://github.com/shubhamsonawane2005)
+## 📈 My GitHub Analytics
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSonawane2005&show_icons=true&theme=buefy&hide_border=true&count_private=true&disable_animations=false&hide_title=true" alt="Shubham Sonawane's GitHub Stats" />
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSonawane2005&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=249DF7" alt="Top Languages" />
+</div>
 
 ---
 
