@@ -24,7 +24,13 @@
 
 ---
 
+###⚒️ Tech Stack 
+
+- ![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,aws,docker,kubernetes,postgres,mongodb)
+  
 ### 📈 My GitHub Stats
+
+---
 
 ![Shubham Sonawane's GitHub Stats](https://github.com/shubhamsonawane2005)
 
