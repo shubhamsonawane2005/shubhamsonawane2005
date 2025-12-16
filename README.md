@@ -26,7 +26,7 @@
 
 ###⚒️ Tech Stack 
 
-- ![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,aws,docker,kubernetes,postgres,mongodb)
+- ![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,tailwind,nodejs,docker,kubernetes,mongodb)
   
 ### 📈 My GitHub Stats
 
