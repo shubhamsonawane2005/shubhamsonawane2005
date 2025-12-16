@@ -1,5 +1,6 @@
 # 🌟Shubham Sonawane
 
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=249DF7&center=true&vCenter=true&width=430&lines=👋+Hi+there!+I'm+Shubham+Sonawane;🚀+Full+Stack+Developer;💻+Web+Application+Architect" alt="Typing SVG" />
 </div>
 
