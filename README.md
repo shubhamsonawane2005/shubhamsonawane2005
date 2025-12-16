@@ -1,8 +1,9 @@
-# 🌟 Shubham Sonawane
+# 🌟Shubham Sonawane
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=249DF7&center=true&vCenter=true&width=430&lines=👋+Hi+there!+I'm+Shubham+Sonawane;🚀+Full+Stack+Developer;💻+Web+Application+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=249DF7&center=true&vCenter=true&width=430&lines=👋+Hi+there!+I'm+Shubham+Sonawane;🚀+Full+Stack+Developer;💻+Web+Application+Architect" alt="Typing SVG" />
 </div>
+
+<br>
 
 🚀 **Full Stack Developer** specializing in building scalable web applications and exploring modern cloud architectures.
 
@@ -48,6 +49,11 @@
 
 ---
 
-### 📫 Connect with Me
+<h2 align="center">📫 Connect with Me</h2>
 
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/shubham-sonawane-09345a2b3/]
+<div align="center">
+    <a href="https://www.linkedin.com/in/shubham-sonawane-09345a2b3/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn Profile"/>
+    </a>
+</div>
+  
